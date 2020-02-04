@@ -16,4 +16,8 @@ DerivedData
 obj
 **/bin/*
 !**/bin/data/
+<<<<<<< HEAD
 *Debug.app
+=======
+*Debug.app
+>>>>>>> changes
