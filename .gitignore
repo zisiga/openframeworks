@@ -17,7 +17,11 @@ obj
 **/bin/*
 !**/bin/data/
 <<<<<<< HEAD
+<<<<<<< HEAD
 *Debug.app
 =======
 *Debug.app
 >>>>>>> changes
+=======
+*Debug.app
+>>>>>>> origin/master
