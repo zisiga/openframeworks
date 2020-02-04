@@ -2,17 +2,11 @@
 
 # 3DPrimitivesExample
 
-## C++
+## C++edfghj
 
-## Screenshot
+## Screenshots
 
 =======
-
-# 3DPrimitivesExample
-
-## C++
-
-## Screenshot
 
 > > > > > > > changes
 > > > > > > > This is is assignment 2. Module 4-6 included in the folder are screenshots of my progress openframeworks repository for openframeworks course, spring 2020 .
