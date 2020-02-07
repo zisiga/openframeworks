@@ -1,11 +1,5 @@
-# 3DPrimitivesExample
+## Bio
 
-## C++
+Zisiga is a multidisciplinary designer interested in the intersection of politics, architecture and places. She hopes learning OpenFrameworks will help her communicate her interests better!
 
-## Screenshots
-
-This is is assignment 2. Module 4-6 included in the folder are screenshots of my progress openframeworks repository for openframeworks course, spring 2020 .
-
-![sololearn module_2](https://user-images.githubusercontent.com/53446518/73769295-6c650a80-4748-11ea-8904-fec9e3e9d3eb.PNG)
-
-[![Alt text](https://img.youtube.com/vi/gq-CN0aJnmE/0.jpg)](https://www.youtube.com/watch?v=gq-CN0aJnmE)
+![picture alt](https://images.squarespace-cdn.com/content/v1/5ddc8f43e5e2b02f4dd417dc/1575477870205-FBOVDF2MRURIZVEX24H5/ke17ZwdGBToddI8pDm48kJVChs3MruWyEkR7sUqqVwF7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfHmarEH5u4B74Y8OMdPhBwm0gFmsqU3x9TCrB8vj8BKs03EwngB2mAPX_4PnzdByA/33770012+2.jpg "this is a photograph of me")
