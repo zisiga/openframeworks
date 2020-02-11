@@ -3,9 +3,30 @@
 
 ## Project I
 
-![picture alt](https://images.squarespace-cdn.com/content/v1/5ddc8f43e5e2b02f4dd417dc/1575477870205-FBOVDF2MRURIZVEX24H5/ke17ZwdGBToddI8pDm48kJVChs3MruWyEkR7sUqqVwF7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfHmarEH5u4B74Y8OMdPhBwm0gFmsqU3x9TCrB8vj8BKs03EwngB2mAPX_4PnzdByA/33770012+2.jpg "this is a photograph of me")
+### Who is the user?
+
+The user is anyone who has access to and consumes data from the internet. 
+
+### What do you want them to experience? 
+
+"There watching us" is to call attention to how our movements are tracker in the internet. 
+
+### How will your translation achieve this?
+
+![picture alt](https://user-images.githubusercontent.com/53446518/74258554-85c80280-4cc4-11ea-8ecd-8534b8dddf8c.jpg "potential direction of project")
+The bird of object will be mouse triggered.
 
 ## Project II
+
+### Who is the user?
+
+The user is anyone who has access to and consumes data from the internet. 
+
+### What do you want them to experience? 
+
+"There watching us" is to call attention to how our movements are tracker in the internet. 
+
+### How will your translation achieve this?
 
 
 ## Project III
