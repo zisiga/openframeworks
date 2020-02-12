@@ -20,13 +20,17 @@ The bird of object will be mouse triggered.
 
 ### Who is the user?
 
-The user is anyone who has access to and consumes data from the internet. 
+
 
 ### What do you want them to experience? 
 
-"There watching us" is to call attention to how our movements are tracker in the internet. 
+"This project is targeted at a general audience who are able to physically access this project. Using a weather API, this project is connected to data about lives lost by people migrating primarily from Africa to Europe in search of better opportunities. We often here about lives lost at sea but it often feels far away. When looking through this data sheet- it became real for me. 
+
+I am particilary inspired by http://afroditipsarra.com/
 
 ### How will your translation achieve this?
+
+My project asks: How can we respectfully memorialize the lives lost at sea? I will pull the wind conditions at specific locations - if possible at the day when the bodies where reported found. --
 
 
 ## Project III
