@@ -24,6 +24,9 @@ The bird of object will be mouse triggered.
 
 ### What do you want them to experience? 
 
+![picture alt](https://user-images.githubusercontent.com/53446518/74448214-95705400-4e48-11ea-84b1-bec5829f0292.jpg "potential direction of project")
+![picture alt](https://user-images.githubusercontent.com/53446518/74448242-9e612580-4e48-11ea-802a-c70a53cb34e6.jpg "potential direction of project")
+
 "This project is targeted at a general audience who are able to physically access this project. Using a weather API, this project is connected to data about lives lost by people migrating primarily from Africa to Europe in search of better opportunities. We often here about lives lost at sea but it often feels far away. When looking through this data sheet- it became real for me. 
 
 I am particilary inspired by http://afroditipsarra.com/
