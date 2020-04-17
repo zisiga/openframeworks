@@ -6,6 +6,10 @@ In the book ‘The Eye of Power’, Michel Foucault discusses the history of soc
 
 Reference: https://www.nytimes.com/2020/03/23/technology/coronavirus-surveillance-tracking-privacy.html
 
+### Audience
+
+My goal of the project is to highlight how we (as consumers) are constantly watched yet also constantly watching the time.
+
 ### Sketches and iterations
 
 ![Screenshot of emptyExample](emptyExample.png)
@@ -16,15 +20,13 @@ YouTube Link : https://www.youtube.com/watch?v=2x1q-ki3pb4
 
 ### How I translated my concept
 
-I used time as a metaphor for power and used moving eyes as a symbol for how we not only keeping track of time as a way to be productive.
+I used time as a metaphor for power and used moving eyes as a symbol for how we not only keep track of time as a way to be productive.
 
-- I started off with creating graphics and style board
+- I started off with creating graphics and style boards.
 - Drew shapes and added images to shape
 - Included text library
 - Animated images and text
 
-### Audience
-
 ### How I would like to develop the concept more in future iterations
 
-There are a few additional scenes that I would have created but had challenges with changing the scene to include text from a new scene. I also had a number of additional graphics that I would like to include to future iterations. In terms of the animation I would like the sketch to involve the user in a more active way
+There are a few additional scenes that I would have created but had challenges with changing the scene to include text from a new scene. I also had a number of additional graphics that I would like to include to future iterations. In terms of the animation I would like the sketch to involve the user in a more involved way. Currently pressing the right arrow moves the circle (clock) to clear the sceen but it would be great if for example, the orbiting eye moves faster when someone looks at the camera.
