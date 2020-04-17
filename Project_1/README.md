@@ -14,16 +14,17 @@ Reference: https://www.nytimes.com/2020/03/23/technology/coronavirus-surveillanc
 
 YouTube Link : https://www.youtube.com/watch?v=2x1q-ki3pb4
 
-### How you translated the concept into something concrete
+### How I translated my concept
 
 I used time as a metaphor for power and used moving eyes as a symbol for how we not only keeping track of time as a way to be productive.
 
-- I started off by creating graphics and style board. Once
+- I started off with creating graphics and style board
+- Drew shapes and added images to shape
+- Included text library
+- Animated images and text
 
-### User
+### Audience
 
-### How you might develop the concept more in future iterations
+### How I would like to develop the concept more in future iterations
 
-There are a few additional scenes
-
-### Your estimation of successes and potential shortcomings of your translation
+There are a few additional scenes that I would have created but had challenges with changing the scene to include text from a new scene. I also had a number of additional graphics that I would like to include to future iterations. In terms of the animation I would like the sketch to involve the user in a more active way
